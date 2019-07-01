@@ -1,0 +1,6 @@
+This is my first file
+second line
+third line to be safe
+i am adding some text
+and more
+it's too hot
